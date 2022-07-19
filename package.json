@@ -11,7 +11,7 @@
   "author": "Ryan Gaus",
   "license": "MIT",
   "engines": {
-    "node" : ">=12.0.0"
+    "node": ">=12.0.0"
   },
   "dependencies": {
     "acorn": "^7.1.0",
